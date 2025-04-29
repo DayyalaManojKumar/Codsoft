@@ -37,6 +37,4 @@ def play_game():
         if play_again != "yes":
             print("Thanks for playing! Goodbye.")
             break
-
-# Start the game
 play_game()
